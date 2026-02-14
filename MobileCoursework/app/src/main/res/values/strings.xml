@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Coursework</string>
+    <string name="title_activity_guessthe_country">GuesstheCountry</string>
+    <string name="title_activity_guess_hints">GuessHints</string>
+    <string name="title_activity_guessthe_flag">GuesstheFlag</string>
+    <string name="title_activity_advanced_level">AdvancedLevel</string>
+    <string name="title_activity_advance_level">AdvanceLevel</string>
+</resources>
